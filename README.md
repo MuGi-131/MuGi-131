@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+Developer;Open+to+Opportunities+in+Japan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+to+Opportunities+in+Japan)](https://git.io/typing-svg)
 
 </div>
 
@@ -175,7 +175,7 @@ I'm actively seeking **full-time opportunities** in Japan where I can:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=フルスタックエンジニア;バックエンド+%26+DevOps+スペシャリスト;クラウドソリューションアーキテクト;日本で就職活動中)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=フルスタックエンジニア;日本で就職活動中)](https://git.io/typing-svg)
 
 </div>
 
