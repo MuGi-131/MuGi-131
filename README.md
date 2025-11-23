@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+DevOps+Specialist;Cloud+Solutions+Architect;Open+to+Opportunities+in+Japan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%26+Developer;Open+to+Opportunities+in+Japan)](https://git.io/typing-svg)
 
 </div>
 
@@ -78,7 +78,7 @@ I'm a **Full Stack Developer** with **9+ years of experience** specializing in b
 
 ### 💼 Professional Experience
 
-#### **🚀 Full Stack Developer** | INFINITE SOLUTIONS
+#### **🚀 Full Stack Developer** | INFINITE SOLUTIONS LLC
 *Jan 2022 - Mar 2023*
 
 - 🏥 Developed **NFT Marketplace** with blockchain integration (Ethereum)
@@ -111,7 +111,7 @@ I'm a **Full Stack Developer** with **9+ years of experience** specializing in b
 - Managed entire lifecycle: design, development, deployment, and server management
 - **Currently in production** with active users
 
-**Stack:** Vue.js, Node.js, Nuxt.js, AWS Lambda, AWS S3, MySQL
+**Stack:** Vue.js, Node.js, Nuxt.js, AWS Lambda, AWS S3, MySQL, Php, MySql
 
 ---
 
@@ -119,11 +119,11 @@ I'm a **Full Stack Developer** with **9+ years of experience** specializing in b
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuGi-131&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGi-131&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuGi-131&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -134,8 +134,8 @@ I'm a **Full Stack Developer** with **9+ years of experience** specializing in b
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-munkhbayar.mugi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munkhbayar.mugi@gmail.com)
-[![Phone](https://img.shields.io/badge/-070--2660--4325-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+819026604325)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Phone](https://img.shields.io/badge/-070--2660--4325-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+817089867095)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MuGi-131)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
 
 📍 **Osaka, Japan** | 🌏 **Open to Remote Work**
