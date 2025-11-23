@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Munkhbayar Ulziibat
-
+# 👋 Hi, I'm MuGI (ムギ)
 <div align="center">
 
 [![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](#-english-version) [![日本語](https://img.shields.io/badge/言語-日本語-red?style=for-the-badge)](#-日本語版)
