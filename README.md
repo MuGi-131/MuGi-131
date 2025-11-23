@@ -115,20 +115,6 @@ I'm a **Full Stack Developer** with **9+ years of experience** specializing in b
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuGi-131&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGi-131&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuGi-131&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 📫 How to Reach Me
 
 <div align="center">
@@ -275,20 +261,6 @@ I'm actively seeking **full-time opportunities** in Japan where I can:
 - **現在本番環境で稼働中**、アクティブユーザーあり
 
 **技術スタック:** Vue.js、Node.js、Nuxt.js、AWS Lambda、AWS S3、MySQL
-
----
-
-### 📊 GitHub統計
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
